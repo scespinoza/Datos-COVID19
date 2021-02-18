@@ -42,8 +42,7 @@ class vacunacion:
         self.path = '../input/Vacunacion'
 
     def get_last(self):
-
-        ## selecciona el archivo que corresponde
+        ## baja el archivo que corresponde
         if self.indicador == 'fabricante':
             print('Retrieving files')
             print('vacunacion_fabricante')
@@ -52,7 +51,6 @@ class vacunacion:
             csv_file = open(self.path + '/' + 'vacunacion_fabricante' + '.csv', 'wb')
             csv_file.write(content)
             csv_file.close()
-            self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_fabricante.csv')
 
         elif self.indicador == 'campana':
             print('Retrieving files')
@@ -62,7 +60,6 @@ class vacunacion:
             csv_file = open(self.path + '/' + 'vacunacion_region' + '.csv', 'wb')
             csv_file.write(content)
             csv_file.close()
-            self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_region.csv')
 
         elif self.indicador == 'edad':
             print('Retrieving files')
@@ -72,7 +69,6 @@ class vacunacion:
             csv_file = open(self.path + '/' + 'vacunacion_edad' + '.csv', 'wb')
             csv_file.write(content)
             csv_file.close()
-            self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_edad.csv')
 
         elif self.indicador == 'caracteristicas_del_vacunado':
             print('Retrieving files')
@@ -82,6 +78,26 @@ class vacunacion:
             csv_file = open(self.path + '/' + 'vacunacion_grupo' + '.csv', 'wb')
             csv_file.write(content)
             csv_file.close()
+
+        ## selecciona el archivo que corresponde
+        if self.indicador == 'fabricante':
+            print('reading files')
+            print('vacunacion_fabricante')
+            self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_fabricante.csv')
+
+        elif self.indicador == 'campana':
+            print('reading files')
+            print('vacunacion_region')
+            self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_region.csv')
+
+        elif self.indicador == 'edad':
+            print('reading files')
+            print('vacunacion_edad')
+            self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_edad.csv')
+
+        elif self.indicador == 'caracteristicas_del_vacunado':
+            print('reading files')
+            print('vacunacion_grupo')
             self.last_added = pd.read_csv('../input/Vacunacion/vacunacion_grupo.csv')
 
     def last_to_csv(self):
