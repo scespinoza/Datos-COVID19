@@ -1,15 +1,15 @@
 Grupo,Dosis,Otros funcionarios públicos,Adm. apoyo no clinico FFAA y de orden,Administrativo de apoyo no clinico sector privado,Administrativo de apoyo no clinico sector público,Alumnos en práctica sector público,"Alumnos en práctica, sector privado",FFAA y de orden,Privado,Público,Administración del Estado,Atencion directa a la Ciudada,Carabineros- PDI,Farmacias y laboratorios,Fuerzas Armadas,Gendarmería,Personal . crítico de Gobierno,Personal de funciones en empresas de transporte de personas,Personas  funciones en transporte de productos criticos,Personas de funciones en empresas de servicios básicos,"Personas en funciones en ONEMI, CONAF, Bomberos",Personas vacunadas por estudio clínico,Profesores y Parvularias,Recolectores de basura,Establecimientos de Larga Estadia de Adultos Mayores (ELEAM),Instituciones de Salud Mental,Población privada de libertad,Servicio Nacional de Menores (SENAME),Población entre 18 a 39 años.,Población entre 40 a 49 años.,Población entre 50 a 59 años.,Capullo de inmunocomprometido pediátrico,Enfermos crónicos desde los 16 a 59 años,Enfermos crónicos desde los 18 a 59 años,Personas mayores de 60 años
 Funcionarios Públicos,Primera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Funcionarios Públicos,Segunda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Personal de salud,Primera,,4581.0,23234.0,27839.0,17732.0,10620.0,24416.0,195194.0,311782.0,,,,,,,,,,,,,,,,,,,,,,,,,
-Personal de salud,Segunda,,3037.0,14869.0,19910.0,11401.0,5879.0,19148.0,151855.0,264061.0,,,,,,,,,,,,,,,,,,,,,,,,,
-Personas Servicios esenciales del estado,Primera,,,,,,,,,,140553.0,151745.0,50298.0,29184.0,40100.0,10105.0,,,,,,,,,,,,,,,,,,,
-Personas Servicios esenciales del estado,Segunda,,,,,,,,,,81784.0,70620.0,35285.0,17062.0,19807.0,2423.0,,,,,,,,,,,,,,,,,,,
-Personas Servicios infraestructura crítica,Primera,,,,,,,,,,,,,,,,,43278.0,10421.0,28678.0,24146.0,,329350.0,,,,,,,,,,,,
-Personas Servicios infraestructura crítica,Segunda,,,,,,,,,,,,,,,,,5354.0,613.0,9220.0,10998.0,,69823.0,,,,,,,,,,,,
-Personas en centros cerrados,Primera,,,,,,,,,,,,,,,,,,,,,,,,27448.0,4216.0,5708.0,10626.0,,,,,,,
-Personas en centros cerrados,Segunda,,,,,,,,,,,,,,,,,,,,,,,,21351.0,2034.0,1863.0,7194.0,,,,,,,
-Población Sana,Primera,,,,,,,,,,,,,,,,,,,,,,,,,,,,51223.0,45547.0,86441.0,,,,
-Población Sana,Segunda,,,,,,,,,,,,,,,,,,,,,,,,,,,,7226.0,10358.0,21339.0,,,,
-Población vulnerable,Primera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,464.0,163718.0,623209.0,2681327.0
-Población vulnerable,Segunda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.0,3454.0,13668.0,1473257.0
+Personal de salud,Primera,,4693.0,23711.0,28275.0,18540.0,11210.0,25258.0,197899.0,314846.0,,,,,,,,,,,,,,,,,,,,,,,,,
+Personal de salud,Segunda,,3310.0,16621.0,21910.0,12110.0,6355.0,20260.0,160935.0,271661.0,,,,,,,,,,,,,,,,,,,,,,,,,
+Personas Servicios esenciales del estado,Primera,,,,,,,,,,145181.0,162224.0,50899.0,31929.0,42137.0,11688.0,,,,,,,,,,,,,,,,,,,
+Personas Servicios esenciales del estado,Segunda,,,,,,,,,,100136.0,91176.0,38641.0,19977.0,25830.0,3218.0,,,,,,,,,,,,,,,,,,,
+Personas Servicios infraestructura crítica,Primera,,,,,,,,,,,,,,,,,67354.0,21500.0,42518.0,26908.0,,332940.0,,,,,,,,,,,,
+Personas Servicios infraestructura crítica,Segunda,,,,,,,,,,,,,,,,,7427.0,917.0,11705.0,13295.0,,113511.0,,,,,,,,,,,,
+Personas en centros cerrados,Primera,,,,,,,,,,,,,,,,,,,,,,,,27849.0,4398.0,7231.0,10841.0,,,,,,,
+Personas en centros cerrados,Segunda,,,,,,,,,,,,,,,,,,,,,,,,22891.0,2390.0,2221.0,7937.0,,,,,,,
+Población Sana,Primera,,,,,,,,,,,,,,,,,,,,,,,,,,,,56634.0,47484.0,88787.0,,,,
+Población Sana,Segunda,,,,,,,,,,,,,,,,,,,,,,,,,,,,10068.0,18593.0,25559.0,,,,
+Población vulnerable,Primera,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1434.0,189683.0,770289.0,2708172.0
+Población vulnerable,Segunda,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.0,8314.0,16182.0,1708491.0
